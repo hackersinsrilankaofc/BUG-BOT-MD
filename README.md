@@ -6,4 +6,4 @@
 
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
-deploy (Heroku.com/deploy?template=https://github.com/hackersinsrilankaofc/BUG-BOT-MD)
+[deploy](https://Heroku.com/deploy?template=https://github.com/hackersinsrilankaofc/BUG-BOT-MD)
